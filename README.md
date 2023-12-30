@@ -8,6 +8,7 @@
 - [Overview](#overview)
   - [Summary](#summary)
   - [Team](#team)
+  - [Skills Gained](#skills)
 - [Getting Started](#getting-started)
   - [Setup](#setup)
   - [Project Structure](#project-structure)
@@ -35,6 +36,19 @@ listed below:
 - [Jeremy Kozlowski](https://github.com/Jkozmo10)
 - [Keila Mohan](https://github.com/keilamohan)
 - [Nikhil Nagarajan]()
+
+### Skills Gained
+
+1. Deep Learning and AI: Utilized TensorFlow and PyTorch for building and training AI models, showcasing expertise in machine learning and neural networks.
+2. Image Processing and Computer Vision: Employed image processing techniques and computer vision libraries to handle and analyze image data.
+3. Natural Language Processing (NLP): Applied NLP techniques in conjunction with the BLIP model for generating image captions, demonstrating your ability to work with language models and textual data.
+4. Python Programming: Developed the tool using Python, indicating strong programming skills in a language widely used in AI and data science.
+5. Use of GPU Acceleration with CUDA: Utilized CUDA for GPU acceleration, which is essential for efficiently training deep learning models.
+6. Data Collection and Preprocessing: Implemented web scraping and data preprocessing, crucial for gathering and preparing datasets for training AI models.
+7. Concurrency and Multithreading: Used a multithreaded approach for efficient web scraping, showcasing your ability to write efficient and scalable code.
+8. Command Line Interface (CLI) Development: Developed a user-friendly command-line interface for the tool, enhancing its accessibility and ease of use.
+9. Software Engineering Best Practices: Applied principles of software development, including version control (evident from the use of GitHub), code optimization, and modular design.
+
 
 ## Getting Started
 
